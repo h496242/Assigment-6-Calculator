@@ -1,0 +1,55 @@
+body {
+    background-color: blueviolet;
+}
+h1 {
+    color: white;
+}
+.main { 
+    background-color: black;
+    width: 140px;
+    border-radius: 10px;
+}
+.Welcome {
+    background-color: white;
+    font-size: small;
+}
+.num {
+    background-color: black;
+    width: 95%;
+    text-align: right;
+}
+.row-one td button {
+    border-radius: 50px;
+}
+.row-two td button {
+    border-radius: 50px;
+}
+.row-three td button {
+    border-radius: 50px;
+}
+.row-four td button {
+    border-radius: 50px;
+}
+.row-five td button {
+    border-radius: 50px;
+}
+.divide {
+    background-color: orange;
+    color: white;
+}
+.multiply {
+    background-color: orange;
+    color: white;
+}
+.minus {
+    background-color: orange;
+    color: white;
+}
+.add {
+    background-color: orange;
+    color: white;
+}
+.equal {
+    background-color: orange;
+    color: white;
+}
